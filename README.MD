@@ -1,6 +1,6 @@
 # 🧰 AtlasCopco Elektronikon MkV Data Monitor
 
-[![Atlas Copco Logo](https://www.atlascopco.com/content/dam/atlas-copco/corporate/logo/AC_LogoBlue_RGB.svg)](https://www.atlascopco.com)  
+[![Atlas Copco Logo](https://www.atlascopco.com/etc.clientlibs/settings/wcm/designs/accommons/design-system/clientlib-assets/resources/icons/logo.svg)](https://www.atlascopco.com)  
 > Python tool for reading, decoding, and logging compressor data from **[Atlas Copco](https://www.atlascopco.com)** **Elektronikon MkV** controllers via their embedded web interface (`mkv.cgi`).
 
 ---
